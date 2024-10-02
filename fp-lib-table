@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "nPM1300-Stamp")(type "KiCad")(uri "${KIPRJMOD}/nPM1300-Stamp/kicad-library/nPM1300-Stamp.pretty")(options "")(descr ""))
+)
