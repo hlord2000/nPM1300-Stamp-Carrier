@@ -10,7 +10,7 @@ Companion carrier board for the nPM1300 Stamp, providing additional functionalit
 
 ## Key Features
 
-- USB-C port for power and communication
+- USB-C port for power
 - ESD protection
 - Ship mode button
 - User button on GPIO0
